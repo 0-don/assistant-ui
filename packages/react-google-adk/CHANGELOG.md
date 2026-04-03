@@ -1,5 +1,13 @@
 # @assistant-ui/react-google-adk
 
+## 0.0.4
+
+### Patch Changes
+
+- 5e23896: fix: skip partial functionCall events in AdkEventAccumulator to prevent incomplete tool calls from hanging the runtime
+- Updated dependencies [ec50e8a]
+  - @assistant-ui/core@0.1.11
+
 ## 0.0.3
 
 ### Patch Changes

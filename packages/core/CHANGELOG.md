@@ -1,5 +1,11 @@
 # @assistant-ui/core
 
+## 0.1.11
+
+### Patch Changes
+
+- ec50e8a: fix(core): prevent resolved history tool calls from re-executing
+
 ## 0.1.10
 
 ### Patch Changes
